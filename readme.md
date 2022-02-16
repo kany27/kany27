@@ -4,4 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanydian-esteves-07b0531a7/)](https://www.linkedin.com/in/kanydian-esteves-07b0531a7/)
 
 ### About me
-I'm a front-end developer. Learning to technologies: C, PHP and JavaScript.
+I'm a Software Developer.
+I have experience with: C, C++, PHP, JavaScript and VueJS.
+Learning and delving into technologies: NodeJS.
